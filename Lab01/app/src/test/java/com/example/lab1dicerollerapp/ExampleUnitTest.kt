@@ -1,4 +1,4 @@
-package com.example.firstappmobile
+package com.example.lab1dicerollerapp
 
 import org.junit.Test
 
